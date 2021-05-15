@@ -1,2 +1,0 @@
-Union of sorted two array is : 1 2 3 4 5 6 
-Intersection of sorted two array is : 3 4 5 
